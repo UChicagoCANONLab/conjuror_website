@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2b3faf1e.css",
+    "main.js": "/static/js/main.8f8b21c9.js",
+    "static/media/thumbnailM1.png": "/static/media/thumbnailM1.c713b0f92bf74ee7fc37.png",
+    "static/media/thumbnailM4.png": "/static/media/thumbnailM4.42b2732d0799278ec2bd.png",
+    "static/media/thumbnailM3.png": "/static/media/thumbnailM3.8e1b6fde670d2d3cc13e.png",
+    "static/media/thumbnailM2.png": "/static/media/thumbnailM2.5be279285440cccf93ce.png",
+    "static/media/thumbnailM6.png": "/static/media/thumbnailM6.ddc38fb317a4ea08287d.png",
+    "static/media/thumbnailM5.png": "/static/media/thumbnailM5.0d98450c0e07f7d82a85.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/Old.svg": "/static/media/Old.92562a8e92f807a6f360f5eedbec2081.svg",
+    "static/media/Child.svg": "/static/media/Child.8fcc5251083edca068f95e0350f49508.svg",
+    "static/media/Baby.svg": "/static/media/Baby.e0c678a3a8a2858f3772dfb3d93ab550.svg",
+    "static/media/Adult.svg": "/static/media/Adult.32eab7669dff9e1b0bbd5ca1feb15cc1.svg",
+    "index.html": "/index.html",
+    "static/media/Blonde.svg": "/static/media/Blonde.d132e297f65ceb9e4b0f0a6cda752133.svg",
+    "static/media/Blue.svg": "/static/media/Blue.c49d21e9b8b18ebf80766947efb93274.svg",
+    "static/media/Brown.svg": "/static/media/Brown.0d9eb7a6c39106adf11a6529c254b4cb.svg",
+    "static/media/Caucasian.svg": "/static/media/Caucasian.a1a45994d72afef301acd3ace9f1d57c.svg",
+    "static/media/Green.svg": "/static/media/Green.585a665c4e3b5a91ed8a4e56377f8b18.svg",
+    "static/media/LightBrown.svg": "/static/media/LightBrown.100315900edb6d87b3fe33171240491d.svg",
+    "static/media/Red.svg": "/static/media/Red.760d8372801ee5196588cb8d04391c70.svg",
+    "static/media/Tan.svg": "/static/media/Tan.e611f996775b20686c1e05c970b1f615.svg",
+    "static/media/Black.svg": "/static/media/Black.dbb8a35074b6067c3f88f273d1adcf6b.svg",
+    "main.2b3faf1e.css.map": "/static/css/main.2b3faf1e.css.map",
+    "main.8f8b21c9.js.map": "/static/js/main.8f8b21c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b3faf1e.css",
+    "static/js/main.8f8b21c9.js"
+  ]
+}
