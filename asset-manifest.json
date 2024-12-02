@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c1958a5c.css",
-    "main.js": "/static/js/main.5323da1f.js",
+    "main.js": "/static/js/main.9a6c7d84.js",
     "static/media/thumbnailM1.png": "/static/media/thumbnailM1.c713b0f92bf74ee7fc37.png",
     "static/media/thumbnailM4.png": "/static/media/thumbnailM4.42b2732d0799278ec2bd.png",
     "static/media/thumbnailM3.png": "/static/media/thumbnailM3.8e1b6fde670d2d3cc13e.png",
@@ -10,6 +10,7 @@
     "static/media/thumbnailM5.png": "/static/media/thumbnailM5.0d98450c0e07f7d82a85.png",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/conjurorLogo.png": "/static/media/conjurorLogo.0eb8d4a5831996f78226.png",
     "static/media/Old.svg": "/static/media/Old.92562a8e92f807a6f360f5eedbec2081.svg",
     "static/media/Child.svg": "/static/media/Child.8fcc5251083edca068f95e0350f49508.svg",
     "static/media/Baby.svg": "/static/media/Baby.e0c678a3a8a2858f3772dfb3d93ab550.svg",
@@ -25,10 +26,10 @@
     "static/media/Tan.svg": "/static/media/Tan.e611f996775b20686c1e05c970b1f615.svg",
     "static/media/Black.svg": "/static/media/Black.dbb8a35074b6067c3f88f273d1adcf6b.svg",
     "main.c1958a5c.css.map": "/static/css/main.c1958a5c.css.map",
-    "main.5323da1f.js.map": "/static/js/main.5323da1f.js.map"
+    "main.9a6c7d84.js.map": "/static/js/main.9a6c7d84.js.map"
   },
   "entrypoints": [
     "static/css/main.c1958a5c.css",
-    "static/js/main.5323da1f.js"
+    "static/js/main.9a6c7d84.js"
   ]
 }
