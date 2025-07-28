@@ -1,9 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.0ba05f40.css",
-    "main.js": "/static/js/main.421e6216.js",
+    "main.js": "/static/js/main.1f408d0d.js",
+    "static/media/events-base.gif": "/static/media/events-base.c96e549fbdc851a2d13d.gif",
+    "static/media/sequence-base.gif": "/static/media/sequence-base.95ef7b4fbfc4ff98c371.gif",
+    "static/media/animation-base.gif": "/static/media/animation-base.ab18e3e945f36e0bc655.gif",
     "static/media/thumbnailM1.png": "/static/media/thumbnailM1.c713b0f92bf74ee7fc37.png",
     "static/media/thumbnailM4.png": "/static/media/thumbnailM4.42b2732d0799278ec2bd.png",
+    "static/media/condloop-base.gif": "/static/media/condloop-base.9749d3b8ff0fc3c4a533.gif",
     "static/media/thumbnailM3.png": "/static/media/thumbnailM3.8e1b6fde670d2d3cc13e.png",
     "static/media/thumbnailM2.png": "/static/media/thumbnailM2.5be279285440cccf93ce.png",
     "static/media/thumbnailM6.png": "/static/media/thumbnailM6.ddc38fb317a4ea08287d.png",
@@ -29,10 +33,10 @@
     "static/media/Tan.svg": "/static/media/Tan.e611f996775b20686c1e05c970b1f615.svg",
     "static/media/Black.svg": "/static/media/Black.dbb8a35074b6067c3f88f273d1adcf6b.svg",
     "main.0ba05f40.css.map": "/static/css/main.0ba05f40.css.map",
-    "main.421e6216.js.map": "/static/js/main.421e6216.js.map"
+    "main.1f408d0d.js.map": "/static/js/main.1f408d0d.js.map"
   },
   "entrypoints": [
     "static/css/main.0ba05f40.css",
-    "static/js/main.421e6216.js"
+    "static/js/main.1f408d0d.js"
   ]
 }
